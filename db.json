@@ -1,6 +1,6 @@
 {
   "comments":[
-    {"postId":"1","email":"abc@gmail.com","name":"abc","body":"not a good feedback"}
+    {"postId":"1","email":"abc@gmail.com","name":"abc","body":"not a good feedback"},
     {"postId":"2","email":"xxx@gmail.com","name":"xxx","body":"server issue"}
   ]
 }
